@@ -8,4 +8,7 @@ Tải file main.py
 
 Chạy nó
 
+python main.py
+
+
 Video Tutorials: https://youtu.be/nh_gEQMMKGs
