@@ -2,6 +2,8 @@
 
 Get a list of coins on binance
 
+Add full list of Binance coins to Tradingview
+
 Tải file main.py
 
 Chạy nó
